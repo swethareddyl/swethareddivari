@@ -38,7 +38,7 @@ As the employer visits the page, employee's portfolio page should display the wo
 
 ## Mock-Up
 
-The following animation shows the web application's appearance and functionality:
+The following mockup shows the portfolio application's appearance and functionality:
 
 ![Portfolio](./assets/images/portfolio-mockup.png)
 
