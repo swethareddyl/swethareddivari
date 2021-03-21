@@ -9,10 +9,7 @@ Apply the following advanced CSS concepts while building the page: flexbox, medi
 
 ## User Story
 
-```
 As the employer visits the page, employee's portfolio page should display the work samples so that employer should be able to review the samples of employee work and assess whether the employee is a good candidate for an open position
-
-```
 
 ## Acceptance Criteria
 
@@ -38,9 +35,6 @@ As the employer visits the page, employee's portfolio page should display the wo
 5. When I view the title element, I find a concise, descriptive title 
 
 6. When I review the code, CSS advanced features linke flexbox, media queries, and CSS variables are utilized.
-
-```
-
 
 ## Mock-Up
 
