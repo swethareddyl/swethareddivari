@@ -46,7 +46,7 @@ As the employer visits the page, employee's portfolio page should display the wo
 
 The following animation shows the web application's appearance and functionality:
 
-![Portfolio](./Assets/02-advanced-css-homework-demo.gif)
+![Portfolio](./assets/images/portfolio-mockup.png)
 
 ## URL of the website 
 https://swethareddyl.github.io/swethareddivari/  
